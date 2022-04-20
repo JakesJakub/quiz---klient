@@ -1,5 +1,5 @@
 let odpovedi = [65, 66, 67, 68]
-radio.setGroup(69)
+radio.setGroup(150)
 let stop = 1
 input.onButtonPressed(Button.A, function on_button_pressed_a() {
     
