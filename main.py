@@ -2,7 +2,6 @@ odpovedi = [65, 66, 67, 68]
 radio.set_group(150)
 stop = 1
 
-
 def on_button_pressed_a():
     global stop
     if stop == 1:
